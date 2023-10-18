@@ -3,8 +3,6 @@
 
 #include <iostream>
 
-using namespace std;
-
 class ComplexNumber {
 private:
     double real;            // Действительная часть
